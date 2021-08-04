@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-network-security/compare/v0.1.0...v0.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#26](https://www.github.com/googleapis/java-network-security/issues/26)) ([9e9e402](https://www.github.com/googleapis/java-network-security/commit/9e9e402bb76466cb1871f5c0cfb8a5f35c4dd4e6))
+
 ## 0.1.0 (2021-07-06)
 
 
