@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/java-network-security/compare/v0.2.1...v0.3.0) (2021-09-24)
+
+
+### Features
+
+* Remove use of deprecated gradle command in java README ([#1196](https://www.github.com/googleapis/java-network-security/issues/1196)) ([#47](https://www.github.com/googleapis/java-network-security/issues/47)) ([eec9eae](https://www.github.com/googleapis/java-network-security/commit/eec9eae57a8edeffd78456e550c380a53d228d0c))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.2.0 ([#50](https://www.github.com/googleapis/java-network-security/issues/50)) ([292dad2](https://www.github.com/googleapis/java-network-security/commit/292dad280b18a2ea677f19e282a070e6193a759f))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.2.1 ([#59](https://www.github.com/googleapis/java-network-security/issues/59)) ([541de5f](https://www.github.com/googleapis/java-network-security/commit/541de5fd8640a3d1a1f535dd794dee673c4cbe68))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.3.0 ([#63](https://www.github.com/googleapis/java-network-security/issues/63)) ([e729510](https://www.github.com/googleapis/java-network-security/commit/e729510344b4b1fb0b2c1996ae2dad5de3fcafe1))
+
 ### [0.2.1](https://www.github.com/googleapis/java-network-security/compare/v0.2.0...v0.2.1) (2021-08-24)
 
 
