@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.4](https://github.com/googleapis/java-network-security/compare/v0.6.3...v0.6.4) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([c5f4762](https://github.com/googleapis/java-network-security/commit/c5f47626cc18e3fd42ffd4f1bdde5fc10ab6333f))
+
 ## [0.6.3](https://github.com/googleapis/java-network-security/compare/v0.6.2...v0.6.3) (2022-10-03)
 
 
