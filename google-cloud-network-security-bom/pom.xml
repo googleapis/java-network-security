@@ -56,7 +56,7 @@
       <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-network-security</artifactId>
-        <version>0.6.5-SNAPSHOT</version><!-- {x-version-update:google-cloud-network-security:current} -->
+        <version>0.7.0</version><!-- {x-version-update:google-cloud-network-security:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
