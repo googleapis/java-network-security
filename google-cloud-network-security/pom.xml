@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-network-security-parent</artifactId>
-    <version>0.6.5-SNAPSHOT</version><!-- {x-version-update:google-cloud-network-security:current} -->
+    <version>0.8.0</version><!-- {x-version-update:google-cloud-network-security:current} -->
   </parent>
   <properties>
     <site.installationModule>google-cloud-network-security</site.installationModule>
