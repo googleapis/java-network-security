@@ -74,7 +74,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-network-security-v1</artifactId>
-        <version>0.7.0</version><!-- {x-version-update:proto-google-cloud-network-security-v1:current} -->
+        <version>0.8.0</version><!-- {x-version-update:proto-google-cloud-network-security-v1:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
