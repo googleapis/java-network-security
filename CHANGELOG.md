@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.5](https://github.com/googleapis/java-network-security/compare/v0.6.4...v0.6.5) (2023-05-31)
+
+
+### Dependencies
+
+* Update dependency com.google.api.grpc:grpc-google-cloud-network-security-v1 to v0.7.0 ([#239](https://github.com/googleapis/java-network-security/issues/239)) ([e9f5533](https://github.com/googleapis/java-network-security/commit/e9f55338c8b0c84a94dd8183a5ae53bf6e8942e7))
+* Update dependency com.google.api.grpc:grpc-google-cloud-network-security-v1beta1 to v0.7.0 ([#240](https://github.com/googleapis/java-network-security/issues/240)) ([ebc4db4](https://github.com/googleapis/java-network-security/commit/ebc4db44b51aaa5376d3c6dd419cb574bb2fa7f6))
+* Update dependency com.google.api.grpc:proto-google-cloud-network-security-v1 to v0.7.0 ([#241](https://github.com/googleapis/java-network-security/issues/241)) ([93a3cc1](https://github.com/googleapis/java-network-security/commit/93a3cc1c8499350217461bf29a55bc02c83ec0c6))
+* Update dependency com.google.api.grpc:proto-google-cloud-network-security-v1beta1 to v0.7.0 ([#242](https://github.com/googleapis/java-network-security/issues/242)) ([05b033d](https://github.com/googleapis/java-network-security/commit/05b033dcff13cf4265da8c809b3b99bebb05ef6f))
+
 ## [0.6.4](https://github.com/googleapis/java-network-security/compare/v0.6.3...v0.6.4) (2022-10-05)
 
 
